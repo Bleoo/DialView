@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:dialview="http://schemas.android.com/apk/res/com.leo.dialview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <com.leo.dialview.DialView
+        android:id="@+id/dial_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        dialview:bottom_picture="@drawable/btn_knob_bg"
+        dialview:top_picture="@drawable/btn_knob_mid"
+       	dialview:min_value="0"
+        dialview:max_value="100"
+        dialview:max_angle="330"
+        dialview:min_angle="30" />
+    
+    <EditText 
+        android:id="@+id/et_angle"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:hint="角度"
+        android:inputType="number"/>
+
+    <SeekBar
+        android:id="@+id/sb_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:max="100"/>
+    
+    <TextView
+        android:id="@+id/tv_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
