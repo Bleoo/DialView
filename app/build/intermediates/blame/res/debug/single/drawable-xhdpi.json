@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\Android\\project\\DialView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_knob_mid.png",
+        "source": "G:\\Android\\project\\DialView\\app\\src\\main\\res\\drawable-xhdpi\\btn_knob_mid.png"
+    },
+    {
+        "merged": "G:\\Android\\project\\DialView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "G:\\Android\\project\\DialView\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\project\\DialView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_knob_bg.png",
+        "source": "G:\\Android\\project\\DialView\\app\\src\\main\\res\\drawable-xhdpi\\btn_knob_bg.png"
+    }
+]

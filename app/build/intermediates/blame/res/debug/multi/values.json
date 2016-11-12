@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "G:\\Android\\project\\DialView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 45,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "G:\\Android\\project\\DialView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 52,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "G:\\Android\\project\\DialView\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "G:\\Android\\project\\DialView\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "G:\\Android\\project\\DialView\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]
